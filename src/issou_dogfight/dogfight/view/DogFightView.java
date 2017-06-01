@@ -2,7 +2,7 @@ package issou_dogfight.dogfight.view;
 
 import java.util.Observable;
 
-public class DogFightView {
+public class DogfightView {
 	public DogfightView(IOrderPerformer orderPerformer, IDogfightModel dogfightModel, Observable observable) 
 	
 	public void run() {
