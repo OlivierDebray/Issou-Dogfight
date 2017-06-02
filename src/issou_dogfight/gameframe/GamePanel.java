@@ -4,11 +4,11 @@ import java.awt.Graphics;
 import java.util.Observable;
 
 public class GamePanel {
-	public  Gamepanel(IGraphicsBuilder graphicBuilder) {
+	public  void Gamepanel(IGraphicsBuilder graphicBuilder) {
 		
 	}
 	
-	public  update(Observable observable) {
+	public  void update(Observable observable) {
 		
 	}
 	
