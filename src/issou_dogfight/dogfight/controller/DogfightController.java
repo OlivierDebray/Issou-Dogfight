@@ -12,8 +12,6 @@ public class DogfightController implements IOrderPerformer {
     private IDogfightModel dogfightModel ;
     private IViewSystem viewSystem ;
 
-
-
     public DogfightController (IDogfightModel dogfightModel) {
         this.dogfightModel = dogfightModel ;
     }
