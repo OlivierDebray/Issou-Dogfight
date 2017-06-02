@@ -1,5 +1,12 @@
 package issou_dogfight.dogfight.model;
 
+import java.awt.Image;
+
+
 public interface IArea {
 
+public Dimension getDimension();
+public Image getImage();
+	
 }
+
